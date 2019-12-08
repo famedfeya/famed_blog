@@ -3,7 +3,6 @@ author: Famed Feya
 email: famedfeya at gmail com
 description: > # this means to ignore newlines until "show_exerpts:"
   Walk with me in this random journey of discovery
-url: https://famedfeya.github.io/
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
