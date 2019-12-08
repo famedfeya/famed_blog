@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Famed Feya
-  tagline: Cyber Security. Network Defender. Security Engineer
+  tagline: Cyber Security. Network Defender. 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
