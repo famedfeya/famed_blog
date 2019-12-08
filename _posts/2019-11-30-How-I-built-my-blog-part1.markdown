@@ -20,10 +20,8 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     {% highlight ruby %}
     C:\Windows\System32>ruby -v
     ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
-    
     C:\Windows\System32>gem -v
     3.0.3
-    
     C:\Windows\System32>jekyll -v
     jekyll 4.0.0
     {% endhighlight %}
@@ -31,8 +29,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
 4.  Navigated to the folder where I wanted to store a local copy of my blog and created my new jekyll site named `famed`
     
     {% highlight ruby %}
-    C:\Windows\System32>cd "C:\Users\username\OneDrive\Blog"
-    
+    C:\Windows\System32>cd "C:\Users\username\OneDrive\Blog" 
     C:\Users\username\OneDrive\Blog>jekyll new famed
     Running bundle install in C:/Users/username/OneDrive/Blog/famed...
     Bundler: Fetching gem metadata from https://rubygems.org/...........
@@ -89,10 +86,8 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>dir
     Volume in drive C has no label.
-    Volume Serial Number is 508E-A470
-    
-    Directory of C:\Users\username\OneDrive\Blog\famed
-    
+    Volume Serial Number is 508E-A470 
+    Directory of C:\Users\username\OneDrive\Blog\famed  
     30/11/2019  12:28    <DIR>          .
     30/11/2019  12:28    <DIR>          ..
     30/11/2019  12:27                56 .gitignore
