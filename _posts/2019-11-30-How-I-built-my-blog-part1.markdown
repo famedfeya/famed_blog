@@ -35,52 +35,52 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     
     C:\Users\username\OneDrive\Blog>jekyll new famed
     Running bundle install in C:/Users/username/OneDrive/Blog/famed...
-      Bundler: Fetching gem metadata from https://rubygems.org/...........
-      Bundler: Fetching gem metadata from https://rubygems.org/.
-      Bundler: Resolving dependencies...
-      Bundler: Using public_suffix 4.0.1
-      Bundler: Using addressable 2.7.0
-      Bundler: Using bundler 2.0.2
-      Bundler: Using colorator 1.1.0
-      Bundler: Using concurrent-ruby 1.1.5
-      Bundler: Using eventmachine 1.2.7 (x64-mingw32)
-      Bundler: Using http_parser.rb 0.6.0
-      Bundler: Using em-websocket 0.5.1
-      Bundler: Using ffi 1.11.3 (x64-mingw32)
-      Bundler: Using forwardable-extended 2.6.0
-      Bundler: Using i18n 1.7.0
-      Bundler: Using sassc 2.2.1 (x64-mingw32)
-      Bundler: Using jekyll-sass-converter 2.0.1
-      Bundler: Using rb-fsevent 0.10.3
-      Bundler: Using rb-inotify 0.10.0
-      Bundler: Using listen 3.2.0
-      Bundler: Using jekyll-watch 2.2.1
-      Bundler: Using kramdown 2.1.0
-      Bundler: Using kramdown-parser-gfm 1.1.0
-      Bundler: Using liquid 4.0.3
-      Bundler: Using mercenary 0.3.6
-      Bundler: Using pathutil 0.16.2
-      Bundler: Using rouge 3.13.0
-      Bundler: Using safe_yaml 1.0.5
-      Bundler: Using unicode-display_width 1.6.0
-      Bundler: Using terminal-table 1.8.0
-      Bundler: Using jekyll 4.0.0
-      Bundler: Fetching jekyll-feed 0.13.0
-      Bundler: Installing jekyll-feed 0.13.0
-      Bundler: Fetching jekyll-seo-tag 2.6.1
-      Bundler: Installing jekyll-seo-tag 2.6.1
-      Bundler: Fetching minima 2.5.1
-      Bundler: Installing minima 2.5.1
-      Bundler: Fetching thread_safe 0.3.6
-      Bundler: Installing thread_safe 0.3.6
-      Bundler: Fetching tzinfo 1.2.5
-      Bundler: Installing tzinfo 1.2.5
-      Bundler: Fetching tzinfo-data 1.2019.3
-      Bundler: Installing tzinfo-data 1.2019.3
-      Bundler: Fetching wdm 0.1.1
-      Bundler: Installing wdm 0.1.1 with native extensions
-      Bundler: Bundle complete! 6 Gemfile dependencies, 34 gems now installed.
-      Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
+    Bundler: Fetching gem metadata from https://rubygems.org/...........
+    Bundler: Fetching gem metadata from https://rubygems.org/.
+    Bundler: Resolving dependencies...
+    Bundler: Using public_suffix 4.0.1
+    Bundler: Using addressable 2.7.0
+    Bundler: Using bundler 2.0.2
+    Bundler: Using colorator 1.1.0
+    Bundler: Using concurrent-ruby 1.1.5
+    Bundler: Using eventmachine 1.2.7 (x64-mingw32)
+    Bundler: Using http_parser.rb 0.6.0
+    Bundler: Using em-websocket 0.5.1
+    Bundler: Using ffi 1.11.3 (x64-mingw32)
+    Bundler: Using forwardable-extended 2.6.0
+    Bundler: Using i18n 1.7.0
+    Bundler: Using sassc 2.2.1 (x64-mingw32)
+    Bundler: Using jekyll-sass-converter 2.0.1
+    Bundler: Using rb-fsevent 0.10.3
+    Bundler: Using rb-inotify 0.10.0
+    Bundler: Using listen 3.2.0
+    Bundler: Using jekyll-watch 2.2.1
+    Bundler: Using kramdown 2.1.0
+    Bundler: Using kramdown-parser-gfm 1.1.0
+    Bundler: Using liquid 4.0.3
+    Bundler: Using mercenary 0.3.6
+    Bundler: Using pathutil 0.16.2
+    Bundler: Using rouge 3.13.0
+    Bundler: Using safe_yaml 1.0.5
+    Bundler: Using unicode-display_width 1.6.0
+    Bundler: Using terminal-table 1.8.0
+    Bundler: Using jekyll 4.0.0
+    Bundler: Fetching jekyll-feed 0.13.0
+    Bundler: Installing jekyll-feed 0.13.0
+    Bundler: Fetching jekyll-seo-tag 2.6.1
+    Bundler: Installing jekyll-seo-tag 2.6.1
+    Bundler: Fetching minima 2.5.1
+    Bundler: Installing minima 2.5.1
+    Bundler: Fetching thread_safe 0.3.6
+    Bundler: Installing thread_safe 0.3.6
+    Bundler: Fetching tzinfo 1.2.5
+    Bundler: Installing tzinfo 1.2.5
+    Bundler: Fetching tzinfo-data 1.2019.3
+    Bundler: Installing tzinfo-data 1.2019.3
+    Bundler: Fetching wdm 0.1.1
+    Bundler: Installing wdm 0.1.1 with native extensions
+    Bundler: Bundle complete! 6 Gemfile dependencies, 34 gems now installed.
+    Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
     New jekyll site installed in C:/Users/username/OneDrive/Blog/famed.
     {% endhighlight %}
     
@@ -88,10 +88,10 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>dir
-     Volume in drive C has no label.
-     Volume Serial Number is 508E-A470
+    Volume in drive C has no label.
+    Volume Serial Number is 508E-A470
     
-     Directory of C:\Users\username\OneDrive\Blog\famed
+    Directory of C:\Users\username\OneDrive\Blog\famed
     
     30/11/2019  12:28    <DIR>          .
     30/11/2019  12:28    <DIR>          ..
@@ -105,8 +105,8 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     30/11/2019  12:27    <DIR>          _posts
                    7 File(s)          6,439 bytes
                    3 Dir(s)  73,231,400,960 bytes free
-    {% endhighlight %}			   
-    
+    {% endhighlight %}		   
+        
     Initiated the local `jekyll` server 
     
     {% highlight ruby %}
@@ -122,6 +122,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
         Server address: http://127.0.0.1:4000/
       Server running... press ctrl-c to stop.
     {% endhighlight %}	
+    
 5.  Modified the default configurations in the `_config.yml` file with my details
     
     {% highlight ruby %}
