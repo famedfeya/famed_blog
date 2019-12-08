@@ -84,7 +84,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     New jekyll site installed in C:/Users/username/OneDrive/Blog/famed.
     {% endhighlight %}
     
-    Verified that files had been created 
+5. 	Verified that files had been created 
     
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>dir
@@ -106,7 +106,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
                    7 File(s)          6,439 bytes
                    3 Dir(s)  73,231,400,960 bytes free
     {% endhighlight %}		   
-    Initiated the local `jekyll` server 
+6.  Initiated the local `jekyll` server 
     
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>jekyll serve --watch
@@ -121,7 +121,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
         Server address: http://127.0.0.1:4000/
       Server running... press ctrl-c to stop.
     {% endhighlight %}	
-5.  Modified the default configurations in the `_config.yml` file with my details
+7.  Modified the default configurations in the `_config.yml` file with my details
     
     {% highlight ruby %}
     title: My Tech Entries
@@ -140,9 +140,9 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     C:\Users\username\OneDrive\Blog\famed>jekyll serve --watch
     {% endhighlight %}	
     
-6.  At this point, I tried a couple of theme customization options but got a little confused. I will therefore skip the customization for now and leave that for a separate blog post once I get my blog up and running. 
+8.  At this point, I tried a couple of theme customization options but got a little confused. I will therefore skip the customization for now and leave that for a separate blog post once I get my blog up and running. 
 
-7.  Added my first blog post 
+9.  Added my first blog post 
 
     The posts  should all be added in the `_posts` directory saved in the format `YEAR-MONTH-DAY-title.MARKUP` and must begin with front matter to set a layout or other meta data. Here is an example    
     
@@ -157,7 +157,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     This is the new blog text
     {% endhighlight %}	
 
-8.  Updated my `About` page info
+10.  Updated my `About` page info
 
     {% highlight ruby %}
     ---
