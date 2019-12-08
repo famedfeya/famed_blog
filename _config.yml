@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Famed Feya
-  tagline: Cyber Security Engineer 
+  tagline: Cyber Security
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
@@ -47,7 +47,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+remote_theme: thelehhman/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
