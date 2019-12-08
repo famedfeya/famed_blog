@@ -106,7 +106,6 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
                    7 File(s)          6,439 bytes
                    3 Dir(s)  73,231,400,960 bytes free
     {% endhighlight %}		   
-        
     Initiated the local `jekyll` server 
     
     {% highlight ruby %}
@@ -122,7 +121,6 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
         Server address: http://127.0.0.1:4000/
       Server running... press ctrl-c to stop.
     {% endhighlight %}	
-    
 5.  Modified the default configurations in the `_config.yml` file with my details
     
     {% highlight ruby %}
