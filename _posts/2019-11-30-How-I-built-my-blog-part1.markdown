@@ -12,7 +12,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
 2.  Installed Jekyll on my Windows 10 machine using [RubyInstaller with DevKit][rubyinstaller]
     The [Jekyll Windows Installation Instructions][jekyll-win-install] I followed are linked here.
 3.  Verified that we had installed all the needed components: `Ruby`, `RubyGems` and `Jekyll`
-    {% highlight ruby %}
+    {% highlight %}
     C:\Windows\System32>ruby -v
     ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
     C:\Windows\System32>gem -v
@@ -21,7 +21,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     jekyll 4.0.0
     {% endhighlight %}
 4.  Navigated to the folder where I wanted to store a local copy of my blog and created my new jekyll site named `famed`
-    {% highlight ruby %}
+    {% highlight %}
     C:\Windows\System32>cd "C:\Users\username\OneDrive\Blog" 
     C:\Users\username\OneDrive\Blog>jekyll new famed
     Running bundle install in C:/Users/username/OneDrive/Blog/famed...
