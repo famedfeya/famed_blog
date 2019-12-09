@@ -8,7 +8,7 @@ categories: howtos
 This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub Pages` to host the blog.
 
 1.  Created a New GitHub repository as detailed in the instructions here [GitHub Pages][github-pages] 
-    ![Creating a repository in GitHub pages](/images/2019-11-30 16_32_36-Create a New Repository.png)
+    ![Creating a repository in GitHub pages](/assets/images/2019-11-30 16_32_36-Create a New Repository.png)
 2.  Installed Jekyll on my Windows 10 machine using [RubyInstaller with DevKit][rubyinstaller]
     The [Jekyll Windows Installation Instructions][jekyll-win-install] I followed are linked here.
 3.  Verified that we had installed all the needed components: `Ruby`, `RubyGems` and `Jekyll`
