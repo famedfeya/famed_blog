@@ -8,15 +8,10 @@ categories: howtos
 This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub Pages` to host the blog.
 
 1.  Created a New GitHub repository as detailed in the instructions here [GitHub Pages][github-pages] 
-
     ![Creating a repository in GitHub pages](/images/2019-11-30 16_32_36-Create a New Repository.png)
-
 2.  Installed Jekyll on my Windows 10 machine using [RubyInstaller with DevKit][rubyinstaller]
-
     The [Jekyll Windows Installation Instructions][jekyll-win-install] I followed are linked here.
-
 3.  Verified that we had installed all the needed components: `Ruby`, `RubyGems` and `Jekyll`
-
     {% highlight ruby %}
     C:\Windows\System32>ruby -v
     ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
@@ -25,9 +20,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     C:\Windows\System32>jekyll -v
     jekyll 4.0.0
     {% endhighlight %}
-
-4.  Navigated to the folder where I wanted to store a local copy of my blog and created my new jekyll site named `famed`
-    
+4.  Navigated to the folder where I wanted to store a local copy of my blog and created my new jekyll site named `famed`   
     {% highlight ruby %}
     C:\Windows\System32>cd "C:\Users\username\OneDrive\Blog" 
     C:\Users\username\OneDrive\Blog>jekyll new famed
@@ -80,9 +73,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
     New jekyll site installed in C:/Users/username/OneDrive/Blog/famed.
     {% endhighlight %}
-    
 5. 	Verified that files had been created 
-    
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>dir
     Volume in drive C has no label.
@@ -100,9 +91,8 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     30/11/2019  12:27    <DIR>          _posts
                    7 File(s)          6,439 bytes
                    3 Dir(s)  73,231,400,960 bytes free
-    {% endhighlight %}		   
-6.  Initiated the local `jekyll` server 
-    
+    {% endhighlight %} 
+6.  Initiated the local `jekyll` server   
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>jekyll serve --watch
     Configuration file: C:/Users/username/OneDrive/Blog/famed/_config.yml
@@ -117,7 +107,6 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
       Server running... press ctrl-c to stop.
     {% endhighlight %}	
 7.  Modified the default configurations in the `_config.yml` file with my details
-    
     {% highlight ruby %}
     title: My Tech Entries
     email: famedfeya at gmail com
@@ -127,20 +116,14 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     url: "https://famedfeya.github.io" 
     twitter_username: elmknyk
     github_username:  famedfeya
-    {% endhighlight %}	
-    
+    {% endhighlight %}
     Since we modified the config file, we need to reinitialize the server again.
-    
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>jekyll serve --watch
-    {% endhighlight %}	
-    
+    {% endhighlight %}
 8.  At this point, I tried a couple of theme customization options but got a little confused. I will therefore skip the customization for now and leave that for a separate blog post once I get my blog up and running. 
-
 9.  Added my first blog post 
-
-    The posts  should all be added in the `_posts` directory saved in the format `YEAR-MONTH-DAY-title.MARKUP` and must begin with front matter to set a layout or other meta data. Here is an example    
-    
+    The posts  should all be added in the `_posts` directory saved in the format `YEAR-MONTH-DAY-title.MARKUP` and must begin with front matter to set a layout or other meta data. Here is an example  
     {% highlight ruby %}
     ---
     layout: post
@@ -151,9 +134,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     ---
     This is the new blog text
     {% endhighlight %}	
-
 10.  Updated my `About` page info
-
     {% highlight ruby %}
     ---
     layout: page
@@ -161,8 +142,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     permalink: /about/
     ---
     This is not a good about me example
-    {% endhighlight %}	
-    
+    {% endhighlight %}	  
     [github-pages]: https://pages.github.com/
     [jekyll-win-install]: https://jekyllrb.com/docs/installation/windows/
     [rubyinstaller]: https://rubyinstaller.org/downloads/
