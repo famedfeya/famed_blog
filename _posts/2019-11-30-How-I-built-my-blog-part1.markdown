@@ -74,6 +74,7 @@ This is a post on how I set up my blog. I choose to use `Jekyll` and `GitHub Pag
     Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
     New jekyll site installed in C:/Users/username/OneDrive/Blog/famed.
     {% endhighlight %}
+{:start="5"}
 5.  Verified that files had been created
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>dir
@@ -93,6 +94,7 @@ This is a post on how I set up my blog. I choose to use `Jekyll` and `GitHub Pag
                    7 File(s)          6,439 bytes
                    3 Dir(s)  73,231,400,960 bytes free
     {% endhighlight %} 
+{:start="6"}
 6.  Initiated the local `jekyll` server
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>jekyll serve --watch
@@ -107,6 +109,7 @@ This is a post on how I set up my blog. I choose to use `Jekyll` and `GitHub Pag
         Server address: http://127.0.0.1:4000/
       Server running... press ctrl-c to stop.
     {% endhighlight %}
+{:start="7"}
 7.  Modified the default configurations in the `_config.yml` file with my details
     {% highlight ruby %}
     title: My Tech Entries
@@ -122,6 +125,7 @@ This is a post on how I set up my blog. I choose to use `Jekyll` and `GitHub Pag
     {% highlight ruby %}
     C:\Users\username\OneDrive\Blog\famed>jekyll serve --watch
     {% endhighlight %}
+{:start="8"}
 8.  At this point, I tried a couple of theme customization options but got a little confused. I will therefore skip the customization for now and leave that for a separate blog post once I get my blog up and running.
 9.  Added my first blog post 
     The posts  should all be added in the `_posts` directory saved in the format `YEAR-MONTH-DAY-title.MARKUP` and must begin with front matter to set a layout or other meta data. Here is an example
@@ -135,6 +139,7 @@ This is a post on how I set up my blog. I choose to use `Jekyll` and `GitHub Pag
     ---
     This is the new blog text
     {% endhighlight %}
+{:start="10"}
 10. Updated my `About` page info
     {% highlight ruby %}
     ---
