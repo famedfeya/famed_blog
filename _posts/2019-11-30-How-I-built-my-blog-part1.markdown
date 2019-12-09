@@ -5,14 +5,14 @@ date:   2019-11-30 15:41:33 +0100
 categories: howtos
 ---
 
-This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub Pages` to host the blog.
+This is a post on how I set up my blog. I choose to use `Jekyll` and `GitHub Pages` to host the blog.
 
 1.  Created a New GitHub repository as detailed in the instructions here [GitHub Pages][github-pages] 
     ![Creating a repository in GitHub pages](/assets/images/2019-11-30 16_32_36-Create a New Repository.png)
 2.  Installed Jekyll on my Windows 10 machine using [RubyInstaller with DevKit][rubyinstaller]
     The [Jekyll Windows Installation Instructions][jekyll-win-install] I followed are linked here.
 3.  Verified that we had installed all the needed components: `Ruby`, `RubyGems` and `Jekyll`
-    {% highlight %}
+    {% highlight ruby %}
     C:\Windows\System32>ruby -v
     ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
     C:\Windows\System32>gem -v
@@ -21,7 +21,7 @@ This is a post on how I set up this blog. I choose to use `Jekyll` and `GitHub P
     jekyll 4.0.0
     {% endhighlight %}
 4.  Navigated to the folder where I wanted to store a local copy of my blog and created my new jekyll site named `famed`
-    {% highlight %}
+    {% highlight ruby %}
     C:\Windows\System32>cd "C:\Users\username\OneDrive\Blog" 
     C:\Users\username\OneDrive\Blog>jekyll new famed
     Running bundle install in C:/Users/username/OneDrive/Blog/famed...
