@@ -19,7 +19,8 @@ This is a post on how I set up my blog. I choose to use `Jekyll` and `GitHub Pag
     3.0.3
     C:\Windows\System32>jekyll -v
     jekyll 4.0.0
-    {% endhighlight %}.
+    {% endhighlight %}
+{:start="4"}
 4.  Navigated to the folder where I wanted to store a local copy of my blog and created my new jekyll site named `famed`
     {% highlight ruby %}
     C:\Windows\System32>cd "C:\Users\username\OneDrive\Blog" 
