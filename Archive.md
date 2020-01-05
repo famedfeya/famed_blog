@@ -2,7 +2,6 @@
 layout: page
 title: Archive
 permalink: /archive/
-sitemap: false 
 ---
 
 Here is the much awaited blog.
