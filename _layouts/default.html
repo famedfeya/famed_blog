@@ -4,23 +4,6 @@
 	{%- include head.html -%}
 </head>
 <body>
-	<div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
 	<main class="container">
 		<section class="about">
 			<img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{ site.plainwhite.name }}">
@@ -38,6 +21,13 @@
                 {%- endif -%}
 			</ul>
 			<p>&copy; 2019</p>
+			<header class="masthead clearfix">
+                <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+                <nav>
+                <a href="{{ site.baseurl }}/">Blog</a>
+                <a href="{{ site.baseurl }}/about">About</a>
+                </nav>
+            </header>
 		</section>
 		<section class="content">
 			{{ content }}
