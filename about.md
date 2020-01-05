@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a wannabe Security Engineer with a solid knowledge of Networking.
+A Security Engineer with a solid knowledge of Networking.
 
 Contact me through Email: famedfeya [at] gmail.com 
 

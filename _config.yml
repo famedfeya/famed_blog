@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Walk with me in this random journey of discovery
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://feisty.one/"
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
@@ -17,7 +18,13 @@ plainwhite:
   tagline: Cyber Security | Threat Hunter
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-
+  
+  navigation:
+    - title: My Work
+      url: "/my-work"
+  # - title: Resume
+  #   url: "/resume"
+  
   # generate social links in footer
   social_links:
     twitter: feisTTY0x1
@@ -93,12 +100,6 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
-
-navigation:
-  - title: My Work
-    url: "/my-work"
-# - title: Resume
-#   url: "/resume"
 
 plugins:
   - jekyll-seo-tag
