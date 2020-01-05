@@ -4,7 +4,7 @@ email: feistty0ne at gmail com
 description: > # this means to ignore newlines until "show_exerpts:"
   Walk with me in this random journey of discovery
 show_excerpts: true # set to true to show excerpts on the homepage
-
+baseurl: "" # the subpath of your site, e.g. /blog
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
@@ -96,4 +96,19 @@ comments:
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
