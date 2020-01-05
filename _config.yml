@@ -24,7 +24,7 @@ plainwhite:
       url: "/my-work"
   # - title: Resume
   #   url: "/resume"
-  
+
   # generate social links in footer
   social_links:
     twitter: feisTTY0x1
@@ -54,9 +54,10 @@ plainwhite:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - about.md
+ - _pages/about.md
  - index.md
- - archive.md
+ - _pages/archive.md
+ - _pages/misc
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
