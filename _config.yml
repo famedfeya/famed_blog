@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Famed Feya
-  tagline: Cyber Security
+  name: Feisty One
+  tagline: Cyber Security | Threat Hunter
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
