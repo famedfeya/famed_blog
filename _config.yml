@@ -1,9 +1,12 @@
-title: My Tech Entries
+title: Purple Cyber Sec
 author: Feisty One
 email: feistty0ne at gmail com
 description: > # this means to ignore newlines until "show_exerpts:"
   Walk with me in this random journey of discovery
 show_excerpts: true # set to true to show excerpts on the homepage
+
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
