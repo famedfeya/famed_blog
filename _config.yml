@@ -1,6 +1,6 @@
 title: My Tech Entries
-author: Famed Feya
-email: famedfeya at gmail com
+author: Feisty One
+email: feistty0ne at gmail com
 description: > # this means to ignore newlines until "show_exerpts:"
   Walk with me in this random journey of discovery
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -17,7 +17,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: elmknyk
+    twitter: feistty0ne
     github:  famedfeya
     #linkedIn: in/famed
     rss: rss
