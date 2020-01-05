@@ -81,8 +81,8 @@ analytics:
         idsite: ''  # the id of the site on Piwik
 
 # Build settings
-remote_theme: thelehhman/plainwhite-jekyll
-
+# remote_theme: thelehhman/plainwhite-jekyll
+theme: jekyll-theme-hacker
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
@@ -120,4 +120,3 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-theme: jekyll-theme-hacker
