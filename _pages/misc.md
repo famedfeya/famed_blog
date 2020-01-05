@@ -2,7 +2,6 @@
 layout: page
 title: Post by Category
 permalink: /misc/
-# sitemap: false
 ---
 # Category List
 <div>
