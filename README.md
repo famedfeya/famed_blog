@@ -1,10 +1,10 @@
+## DISCLAIMER & LEGAL
 
-The opinions expressed here represent my own and not those of my employer.
-In addition, my thoughts and opinions change from time to time. I consider this a necessary consequence of having an open mind.
+All opinions expressed here and on my social media profiles are solely mine and do not reflect those of my employer. Retweets and mentions of products do not constitute endorsement of any position, product, or service. In addition, my thoughts and opinions change from time to time. 
 
 ## Acknowledgement
 
-UI Template is based on https://github.com/thelehhman/plainwhite-jekyll
+The UI Template is based on https://github.com/thelehhman/plainwhite-jekyll
 
 ## License
 
