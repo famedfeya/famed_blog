@@ -20,8 +20,8 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   
   navigation:
-    - title: My Work
-      url: "/my-work"
+    - title: About
+      url: "/about"
   # - title: Resume
   #   url: "/resume"
 
