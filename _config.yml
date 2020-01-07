@@ -4,9 +4,9 @@ email: feistty0ne at gmail com
 description: > # this means to ignore newlines until "show_exerpts:"
   Walk with me in this random journey of discovery
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://feisty.one/"
-permalink: blog/:year/:month/:day/:title
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://feisty.one/"
+# permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 # Minima date format
