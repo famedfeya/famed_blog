@@ -86,5 +86,5 @@ Adios!
 <ol>
     <li><a href="https://wiki.wireshark.org/Wi-Fi">Wi-Fi (WLAN, IEEE 802.11)</a></li>
     <li><a href="https://wiki.wireshark.org/CaptureSetup/WLAN"><span id="pagelocation"><span class="pagepath">CaptureSetup</span><span class="sep">/</span>WLAN</span></a></li>
-    <li>https://ask.wireshark.org/questions/16343/install-wireshark-on-ubuntu</li>
+    <li><a href="https://ask.wireshark.org/questions/16343/install-wireshark-on-ubuntu">Wireshark on Ubuntu</a></li>
 </ol>
