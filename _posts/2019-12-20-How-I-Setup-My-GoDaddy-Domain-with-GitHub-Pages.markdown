@@ -5,6 +5,8 @@ date:   2019-12-20 01:11:33 +0100
 categories: howtos
 ---
 
+In this blog, we will review how I was able to use a custom Domain from Godaddt to my new blog hosted in GitHub pages. 
+
 1. Add A Records with your DNS provider for apex domain (without www.):
 ![Asset 1](/assets/images/2020_01_05_01_16_28_Domain_Manager.png)
 2. Add one CNAME record for www subdomain.
