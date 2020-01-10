@@ -112,6 +112,7 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
