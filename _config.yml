@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "show_exerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://feisty.one/"
-# permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 # Minima date format
@@ -113,8 +112,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
+paginate_path: /posts/page:num/
 paginate: 5
 
 jekyll-archives:
