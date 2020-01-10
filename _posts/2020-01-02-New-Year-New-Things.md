@@ -10,11 +10,11 @@ With a brand New Year, comes new possibilities. Am super happy to be transitioni
 {% highlight ruby%}
 Network Engineer -> Sr. Network Engineer 
 							|
-					Cyber Security Engineer (TAC) -> Sr. Cyber Security Engineer (TAC)
-															|
-													 Information Security Engineer
-													 		|
-													 Threat Hunter. 
+					Cyber Security Engineer (TAC) -> Sr. Cyber Security Engineer (TAC) -> Threat Specialist (TAC)
+																									|
+																					 Information Security Engineer
+																					 				|
+																					 		Threat Hunter 
 {% endhighlight %}
 
 It has not been an easy ride but has definitely been worth it. 
