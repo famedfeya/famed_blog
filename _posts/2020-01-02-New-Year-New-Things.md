@@ -34,5 +34,5 @@ Happy Hunting!
 2. [A Journey from MSSP SOC Analyst to Threat Hunter by F-Secure](https://blog.f-secure.com/a-journey-from-mssp-soc-analyst-to-countercept-threat-hunter/)
 3. [What is Threat Hunting by Cyberreason](https://www.cybereason.com/blog/blog-the-eight-steps-to-threat-hunting)
 4. [Threat Hunter Role](https://www.helpnetsecurity.com/2019/12/18/threat-hunter-role/)
-5. [Threat Hunting for Dummies Book by Carbon Black]()
+5. Threat Hunting for Dummies Book by Carbon Black
 6. [Security Intelligence by IBM](https://securityintelligence.com/a-beginners-guide-to-threat-hunting/)
