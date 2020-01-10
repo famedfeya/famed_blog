@@ -6,7 +6,7 @@ author: tnotez
 comments: true
 categories: []
 ---
-<h1>1.0  Implement Location-Based Services</h1>
+1.0  Implement Location-Based Services
 
 <p style="padding-left:30px;">1.1 Describe the impact of distributed antenna systems (DAS) for location-based services</p>
 
