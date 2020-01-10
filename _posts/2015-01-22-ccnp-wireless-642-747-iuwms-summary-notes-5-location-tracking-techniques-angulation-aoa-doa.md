@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless 642-747 IUWMS Summary Notes 5 : Location Tracking Techniques – Angulation (AoA / DoA)
+title: CCNP Wireless 642-747 IUWMS Summary Notes 5 - Location Tracking Techniques – Angulation (AoA / DoA)
 date: 2015-01-22 09:00
 author: tnotez
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 22 : Assessing RF Coverage
+title: CCNP Wireless CUWSS 642-732 Summary Notes 22 - Assessing RF Coverage
 date: 2014-11-30 23:16
 author: tnotez
 comments: true

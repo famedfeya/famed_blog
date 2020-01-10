@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless 642-747 IUWMS Summary Notes 3 : Location Tracking Techniques – Lateration (ToA and TDoA)
+title: CCNP Wireless 642-747 IUWMS Summary Notes 3 - Location Tracking Techniques – Lateration (ToA and TDoA)
 date: 2015-01-16 12:00
 author: tnotez
 comments: true

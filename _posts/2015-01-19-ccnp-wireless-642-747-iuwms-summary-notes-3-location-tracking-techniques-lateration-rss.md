@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless 642-747 IUWMS Summary Notes 4 : Location Tracking Techniques – Lateration (RSS)
+title: CCNP Wireless 642-747 IUWMS Summary Notes 4 - Location Tracking Techniques – Lateration (RSS)
 date: 2015-01-19 09:00
 author: tnotez
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 10 : Designing a mesh network
+title: CCNP Wireless CUWSS 642-732 Summary Notes 10 - Designing a mesh network
 date: 2014-11-13 12:54
 author: tnotez
 comments: true

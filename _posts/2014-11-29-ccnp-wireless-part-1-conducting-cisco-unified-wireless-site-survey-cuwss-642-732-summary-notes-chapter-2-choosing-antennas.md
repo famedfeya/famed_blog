@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 20 : Choosing Antennas
+title: CCNP Wireless CUWSS 642-732 Summary Notes 20 - Choosing Antennas
 date: 2014-11-29 23:12
 author: tnotez
 comments: true

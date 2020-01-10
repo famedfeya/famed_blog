@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless 642-747 IUWMS Summary Notes 1 : Introduction to Location-Based Services
+title: CCNP Wireless 642-747 IUWMS Summary Notes 1 - Introduction to Location-Based Services
 date: 2015-01-16 09:00
 author: tnotez
 comments: true

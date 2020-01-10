@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless 642-747 IUWMS Summary Notes 2 : Location Tracking Techniques - Cell of Origin
+title: CCNP Wireless 642-747 IUWMS Summary Notes 2 - Location Tracking Techniques - Cell of Origin
 date: 2015-01-16 10:00
 author: tnotez
 comments: true

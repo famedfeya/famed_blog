@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passed CCNP CUWSS Wireless Exam ~~~> Moving on to CCNP IUWMS Wireless.
+title: Passed CCNP CUWSS Wireless Exam -> Moving on to CCNP IUWMS Wireless.
 date: 2015-01-15 12:13
 author: tnotez
 comments: true

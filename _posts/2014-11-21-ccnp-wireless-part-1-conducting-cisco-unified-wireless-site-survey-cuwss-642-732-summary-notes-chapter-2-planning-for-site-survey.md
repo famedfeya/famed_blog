@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 12 :  Planning for Site Survey
+title: CCNP Wireless CUWSS 642-732 Summary Notes 12 -  Planning for Site Survey
 date: 2014-11-21 09:22
 author: tnotez
 comments: true

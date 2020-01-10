@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 16 : Layer 2 Active Site Survey  using AirMagnet  Survey Pro
+title: CCNP Wireless CUWSS 642-732 Summary Notes 16 - Layer 2 Active Site Survey  using AirMagnet  Survey Pro
 date: 2014-11-28 12:05
 author: tnotez
 comments: true

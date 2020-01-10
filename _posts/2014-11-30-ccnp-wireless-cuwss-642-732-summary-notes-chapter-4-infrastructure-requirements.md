@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 21 : Infrastructure requirements Part 2
+title: CCNP Wireless CUWSS 642-732 Summary Notes 21 - Infrastructure requirements Part 2
 date: 2014-11-30 12:12
 author: tnotez
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 17 :  Ekahau Site Survey
+title: CCNP Wireless CUWSS 642-732 Summary Notes 17 -  Ekahau Site Survey
 date: 2014-11-28 23:39
 author: tnotez
 comments: true

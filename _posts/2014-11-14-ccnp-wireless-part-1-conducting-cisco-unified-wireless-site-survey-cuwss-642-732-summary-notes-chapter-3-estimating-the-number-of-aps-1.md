@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 11 : Predictive Site Survey
+title: CCNP Wireless CUWSS 642-732 Summary Notes 11 - Predictive Site Survey
 date: 2014-11-14 07:38
 author: tnotez
 comments: true

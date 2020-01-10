@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 13 :  Defining Site Survey Documentation
+title: CCNP Wireless CUWSS 642-732 Summary Notes 13 -  Defining Site Survey Documentation
 date: 2014-11-21 21:00
 author: tnotez
 comments: true

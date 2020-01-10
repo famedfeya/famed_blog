@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 14 : Layer 1 Active Site Survey - Cisco Spectrum Expert
+title: CCNP Wireless CUWSS 642-732 Summary Notes 14 - Layer 1 Active Site Survey - Cisco Spectrum Expert
 date: 2014-11-23 09:00
 author: tnotez
 comments: true

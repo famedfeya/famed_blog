@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 24 : Installation Report
+title: CCNP Wireless CUWSS 642-732 Summary Notes 24 - Installation Report
 date: 2014-12-01 15:31
 author: tnotez
 comments: true

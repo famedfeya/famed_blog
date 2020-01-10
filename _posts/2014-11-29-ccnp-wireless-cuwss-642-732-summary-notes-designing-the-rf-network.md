@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 18 : Hardware for the RF Network
+title: CCNP Wireless CUWSS 642-732 Summary Notes 18 - Hardware for the RF Network
 date: 2014-11-29 20:45
 author: tnotez
 comments: true

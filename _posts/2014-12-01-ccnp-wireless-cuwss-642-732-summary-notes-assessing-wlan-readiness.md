@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 23 : Assessing WLAN Readiness
+title: CCNP Wireless CUWSS 642-732 Summary Notes 23 - Assessing WLAN Readiness
 date: 2014-12-01 13:55
 author: tnotez
 comments: true

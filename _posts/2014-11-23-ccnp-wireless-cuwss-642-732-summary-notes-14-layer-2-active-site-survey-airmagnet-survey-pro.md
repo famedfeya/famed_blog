@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCNP Wireless CUWSS 642-732 Summary Notes 15 : Attenuation and Data Rates
+title: CCNP Wireless CUWSS 642-732 Summary Notes 15 - Attenuation and Data Rates
 date: 2014-11-23 20:44
 author: tnotez
 comments: true
