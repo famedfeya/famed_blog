@@ -5,11 +5,17 @@ categories: [Career, Threat Hunting]
 tags: [threat hunting, cyber hunting, cyber threat hunting]
 ---
 
-With a brand New Year, comes new possibilities. Am super happy to be transitioning to the role of a Threat Hunter at a great company in Feb. Am happy with the path my career has taken so far: Network Engineer -> Network Security Engineer -> Information Security Engineer -> Threat Hunter. It has not been easy but definitely worth it. 
+With a brand New Year, comes new possibilities. Am super happy to be transitioning to the role of a Threat Hunter at a great company in Feb. Am happy with the path my career has taken so far: 
+
+{% highlight %}
+Network Engineer --> Network Security Engineer --> Information Security Engineer --> Threat Hunter. 
+{% endhighlight %}
+
+It has not been easy but definitely worth it. 
 
 As a threat hunter, I will be expected to be on the lookout for trouble and take a more proactive approach to prevent, detect and/or mitigate security incidents. The role involves technical research of potential cyber security compromise, analysis of known and unknown threats, identification and review of potential security incidents and creation of new detection methodologies. I will be working with threat intelligence to enhance the overall quality of services and the security posture of the organization. 
 
-The qualities required to succeed inthis role are 
+The qualities required to succeed in this role are:
 * Critical thinking 
 * Creative
 * Collaborate with others 
