@@ -22,7 +22,7 @@ Lets go on this exciting journey and learn together :).
 
 Happy Hunting!
 
-# References 
+## References 
 
 1. [InfoSec Institute](https://resources.infosecinstitute.com/category/enterprise/threat-hunting/threat-hunting-careers/#gref)
 2. [A Journey from MSSP SOC Analyst to Threat Hunter by F-Secure](https://blog.f-secure.com/a-journey-from-mssp-soc-analyst-to-countercept-threat-hunter/)
