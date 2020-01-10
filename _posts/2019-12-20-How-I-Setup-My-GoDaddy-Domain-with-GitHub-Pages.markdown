@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I Set up my new GoDaddy Domain with GitHub Pages"
-date:   2020-01-05 01:11:33 +0100
+date:   2019-12-20 01:11:33 +0100
 categories: howtos
 ---
 
